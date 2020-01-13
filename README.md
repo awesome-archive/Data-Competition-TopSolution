@@ -1,8 +1,9 @@
+
 Data competition Top Solution 数据竞赛Top解决方案开源整理
   --
 持续更新中
-欢迎大家一起参加
-
+欢迎大家一起参加  
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 ## 一、数据竞赛：
 
 1. 2018科大讯飞AI营销算法大赛  
@@ -74,22 +75,28 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 11. 2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型  
    Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution  
    Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2  
+   Rank4：https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution  
    Rank6：https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
+   
+12. 2017 CCF-商场中精确定位用户所在店铺  
+   Rank1：https://github.com/drop-out/Tianchi-Wifi-Positioning  
           
-12. 2018 CCF-汽车领域ASC挑战赛  
+
+13. 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛  
+   Rank1: https://github.com/yilirin/BDCI_Car_2018  
    Rank7: https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
 
-13. 2016 CCF-020优惠券使用预测  
+14. 2016 CCF-020优惠券使用预测  
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
    
-14. 2016 ccf-农产品价格预测  
+15. 2016 ccf-农产品价格预测  
    Rank2: https://github.com/xing89qs/CCF_Product   
    Rank35: https://github.com/wqlin/ccf-price-prediction 
  
-15. 2016 ccf-客户用电异常  
+16. 2016 ccf-客户用电异常  
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
    
-16. 2016 ccf-搜狗的用户画像比赛  
+17. 2016 ccf-搜狗的用户画像比赛  
    Rank1: https://github.com/hengchao0248/ccf2016_sougou   
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou   
    Rank5: https://github.com/dhdsjy/2016_CCFsougou   
@@ -97,59 +104,90 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           https://github.com/prozhuchen/2016CCF-sougou   
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
           
-17. 2016 ccf-联通的用户轨迹  
+18. 2016 ccf-联通的用户轨迹  
    RankX: https://github.com/xuguanggen/2016CCF-unicom 
    
-18. 2016 ccf-Human or Robots  
+19. 2016 ccf-Human or Robots  
    Rank6: https://github.com/pickou/ccf_human_or_robot 
    
-19. 菜鸟-需求预测与分仓规划  
+20. 菜鸟-需求预测与分仓规划  
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
 
-20. (Kaggle)2018 Data Science Bow   
+21. (Kaggle)2018 Data Science Bow   
    Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
-   Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
+   Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118  & [Github](https://github.com/pdima/kaggle_2018_data_science_bowl_solution)
 
-21. 2018对抗挑战优胜经验分享  
+22. 2018对抗挑战优胜经验分享  
    by snakers41: http://t.cn/RBMaq4y  
    GitHub:http://t.cn/RBMlfBH
 
-22. Galaxy Zoo challenge   
+23. Galaxy Zoo challenge   
    http://benanne.github.io/2014/04/05/galaxy-zoo.html
 
-23. Kaggle Home Credit违约风险预测   
+24. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
    
-24. Kaggle 2017 Santa competition   
+25. Kaggle 2017 Santa competition   
    Rank54: https://github.com/bigzhao/MPI-Hungarian-method
    
-25. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
+26. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
    Rank131: https://bigzhao.github.io/2017/12/18/kaggle-silver/
 
-26. 第三届阿里云安全算法挑战赛   
+27. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
-27. 2018dc-新网银行杯   
+28. 2018dc-新网银行杯   
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
    Rank4：https://github.com/TingNie/CreditForecast
 
-28. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
+29. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
+   Rank1：https://github.com/chenghuige/wenzheng   
    Rank16：https://github.com/xueyouluo/fsauor2018   
    Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
    
-29. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
+30. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
    Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
    Rank?: https://github.com/zlxy9892/DC_hbc
    
-30. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
+31. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
    Rank16：https://github.com/zle1992/atec
    
-31. 2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题   
+32. 2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题   
    Rank18：https://github.com/ziweipolaris/atec2018-nlp
 
-32. DataCastle-城市治理大数据应用创意方案赛   
+33. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
+   
+34. Kaggle - Crowdflower Search Results Relevance   
+   Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
+
+35. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
+   Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
+
+36. 2017 摩拜杯算法挑战赛   
+   Rank3: https://github.com/Magic-Bubble/Mobike
+
+37. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
+   Rank1: https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast
+   
+38. 天池糖尿病血糖预测比赛 精准医疗   
+   Rank24: https://github.com/xingyuezhiji/Diabetes
+
+
+39. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
+   Rank1: https://github.com/yinchangchang/ocr_densenet
+
+
+40. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
+   Rank1: https://github.com/mxbi/kaggledays-paris
+   
+41. 2019 Kaggle Freesound Audio Tagging   
+   Rank1: https://github.com/qrfaction/1st-Freesound-Audio-Tagging-2019   
+
+
+41. Kaggle iMaterialist (Fashion) 2019 at FGVC6   
+   Rank1: https://github.com/amirassov/kaggle-imaterialist
 
 
 ## 二、NLP：
@@ -172,6 +210,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank29: https://github.com/wangjiaxin24/daguan_NLP 
           
 3. 2018JD Dialog Challenge 任务导向型对话系统挑战赛  
+   Rank2: https://github.com/Dikea/Dialog-System-with-Task-Retrieval-and-Seq2seq  
    Rank3: https://github.com/zengbin93/jddc_solution_4th
    
 4. 2018CIKM AnalytiCup  – 阿里小蜜机器人跨语言短文本匹配算法竞赛  
@@ -199,6 +238,14 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 9. 第二届搜狐内容识别大赛  
    Rank1：https://github.com/zhanzecheng/SOHU_competition
 
+10. 科赛 - 百度 PaddlePaddle AI 大赛——智能问答  
+   Rank3：https://github.com/312shan/rc_tf
+
+11. 2018 kaggle quora insincere questions classification
+   Rank1: https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568
+   Rank13: https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg
+   Rank153: https://github.com/jetou/kaggle-qiqc
+
 ### 三、CV：
 1. Kaggle-TGS
    Rank1: http://t.cn/EzkDlOC  
@@ -206,7 +253,6 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           http://t.cn/EzuPvfp   
    Rank9: http://t.cn/EznzvYv  
    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
-   
    Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
@@ -233,16 +279,36 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1: http://t.cn/RBssjf6
    
 8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
-   Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
+   Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code   
+   Rank21: https://github.com/pascal1129/kaggle_airbus_ship_detection
    
-9.kaggle RSNA Pneumonia Detection
+9. kaggle RSNA Pneumonia Detection   
+   Rank1: https://github.com/i-pan/kaggle-rsna18   
+   Rank2: https://github.com/SeuTao/Kaggle_TGS2018_4th_solution   
+   Rank3: https://github.com/pmcheng/rsna-pneumonia   
+   Rank6: https://github.com/pfnet-research/pfneumonia   
+   Rank10: https://github.com/alessonscap/rsna-challenge-2018   
+   
+10. Kaggle PLAsTiCC Astronomical Classification Competition（PLAsTiCC 天文分类比赛）   
+   Rank1: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75033   
+   Rank2: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75059   
+   Rank3: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75116 & https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75131 & https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75222   
+   Rank4: https://github.com/aerdem4/kaggle-plasticc   
+   Rank5: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75040   
+   
+11. Kaggle Human Protein Atlas Image Classification Challenge（Kaggle 人类蛋白质图谱图像分类比赛）   
+   Rank3: https://github.com/pudae/kaggle-hpa   
 
-   Rank1:https://github.com/i-pan/kaggle-rsna18
-   Rank2:https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
-   Rank3:https://github.com/pmcheng/rsna-pneumonia
-   Rank6:https://github.com/pfnet-research/pfneumonia
-   Rank10:https://github.com/alessonscap/rsna-challenge-2018
+12. SpaceNet Challenge Round 4: Off-Nadir Buildings（SpaceNet挑战卫星图片建筑物识别）   
+   Rank*: https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions   
+
+13. Kaggle Humpback Whale Identification Challenge（Kaggle座头鲸识别比赛）   
+   Rank1: https://github.com/earhian/Humpback-Whale-Identification-1st-   
+   Rank7: https://medium.com/@ducha.aiki/thanks-radek-7th-place-solution-to-hwi-2019-competition-738624e4c885   
    
+
+   
+
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
 2. wepon ：https://github.com/wepe 
